@@ -5,8 +5,8 @@ How to play
 -----------
 First, choose the name of the arena in which the monsters will fight.
 
-Then, you have the following options:
--------------------------------------
+Then, you choose from the following options:
+
 1) Create a new monster
   *  Choose one of the four types: hag, vampire, werewolf, or wyvern. Each has its own unique base stats and special attack.
     * The types of stats are:
